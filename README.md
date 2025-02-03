@@ -6,7 +6,7 @@ I have a longstanding love for open source software. Nowadays, I’m most involv
 
 Before working in tech, I focused on communications. I was a theatre major in college, performed improv comedy, directed plays semi-professionally, and did a lot of blogging. Storytelling is a big interest of mine, and I think a lot about how best to inform and inspire developer audiences.
 
-I'm currently doing freelance work, consulting, and advising. If you’d like to chat about me creating content for your company, giving you product feedback, or advising you on DevRel, please [contact me](mailto:hi@richburroughs.dev).
+I'm currently doing freelance work, consulting, and advising. If you’d like to chat about me creating content for your company, giving you product feedback, or advising you on DevRel, please [contact me](mailto:hi@richburroughs.dev). I'm also open to full-time positions.
 
 ### Content samples
 
