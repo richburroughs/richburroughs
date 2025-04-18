@@ -1,4 +1,4 @@
-Hi! I'm Rich.
+*Hi! I'm Rich.*
 
 I've worked with software for many years. I started working in Ops roles with titles like sysadmin, infrastructure engineer, and SRE. I've recently worked in Developer Relations, focusing on creating content, building community, and presenting at events.
 
